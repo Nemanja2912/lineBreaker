@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#container {
+  width: 500px;
+  line-height: 24px;
+  border: 1px solid red;
+}
+
+#result {
+  width: 500px;
+  margin-top: 50px;
+  border: 1px solid green;
+  line-height: 24px;
+}
